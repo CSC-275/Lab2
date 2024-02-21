@@ -4,7 +4,7 @@
 using namespace std;
 
 void display_rankings();
-char get_choice();
+void get_choice();
 void change_ranking();
 
 int main() {
@@ -16,7 +16,7 @@ void display_rankings() {
 
 }
 
-char get_choice() {
+void get_choice() {
 
 }
 
