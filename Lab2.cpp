@@ -23,12 +23,12 @@ char get_choice() {
 void change_ranking() {
     // make sure rankings are in bounds
 
-    // decrement rankings to create valid indexes
+        // decrement rankings to create valid indexes
 
-    // store current ranking element
+        // store current ranking element
 
-    // remove element at old location
+        // remove element at old location
 
-    // insert element at new location
+        // insert element at new location
 
 }
